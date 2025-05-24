@@ -1,8 +1,8 @@
-// Creditos del codigo a @Gatito-kw //
+// Creditos del codigo a @sombrx-kw //
 
-/* GitHub: https://github.com/Gatito-kw */
+/* GitHub: https://github.com/sombrxzz-kw */
 
-/* Bot: https://github.com/Gatito-kw/nekobot-md */
+/* Bot: https://github.com/sombrx-kw/nekobot-md */
 
 import {WAMessageStubType} from "baileys";
 import fetch from 'node-fetch';
