@@ -1,6 +1,6 @@
 /**
-TheMystic-Bot-MD@BrunoSobrino - _antitrabas.js
-By @NeKosmic || https://github.com/NeKosmic/
+7vx-Bot-MD@sombrx- _antitrabas.js
+By @sombrxzz || https://github.com/NeKosmic/
 **/
 
  // Para configurar o idioma, na raiz do projeto altere o arquivo config.json
